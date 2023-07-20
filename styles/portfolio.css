@@ -1,0 +1,137 @@
+.banner{
+     background: rgba(229, 84, 115, 0.10);
+     width: 100%; 
+     height: 850px;
+     display: flex; 
+     border: none;
+   
+ 
+}
+.banner-info{
+    padding: 20px 40px;
+}
+.banner-title{
+    font-size: 80px;
+    color: #272727;
+   font-family: Lato;
+   font-weight: 800;
+    /* padding: 20px 40px;  */
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+   font-family: Lato;
+   font-size: 18px;
+   font-weight: 400;
+   /* line-height: 30px;  */
+    /* padding-right:80px; */
+}
+
+.banner-btn{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    padding: 20px 43px;
+
+}
+
+/* main section */
+.main-banner{
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+margin-top: 100px;
+width: 100%;
+height: 620px;
+
+}
+.main-banner-info{
+text-align: center;
+padding: 200px 100px;
+
+}
+.main-banner-title{
+
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+   
+}
+.spann{
+    color: #E55473;
+}
+ .main-img{
+    
+    /* width: 318px; */
+    /* height:420px; */
+     padding: 100px;
+} 
+/* instra part */
+.instagram{
+    text-align: center;
+    margin-top: 60px;
+}
+section>h3{
+    padding: 0px;
+}
+
+.section-img{
+    display: flex;
+    margin: 10px 130px;
+    
+}
+section>img{
+    margin: 10px;
+}
+.form-info{
+    background-image: url('../image/rectangle9.png');
+    width: 1440px;
+    height: 449px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 40px;
+    margin: 100px 145px;
+}
+form>input[email]{
+    border-radius: 8px;
+    background: #FFF;
+    border:none;
+   
+}
+footer{
+    width:100%;
+   height: 449px;
+   background: #111010;
+   text-align: center;
+   padding: 120px 100px;
+}
+.footer-title{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    padding-bottom: 24px;
+
+}
+.flower{
+    color: #E55473;
+    font-family: Lato;
+   font-size: 48px;
+
+}
+.footer-describtion{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+
+}
+
+.footer-des{
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+}
